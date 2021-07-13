@@ -1,0 +1,13 @@
+{
+    "name": "FitnessClub",
+    "alias": "fitnessclub",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\FitnessClub\\Providers\\FitnessClubServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

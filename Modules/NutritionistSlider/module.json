@@ -1,0 +1,13 @@
+{
+    "name": "NutritionistSlider",
+    "alias": "nutritionistslider",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NutritionistSlider\\Providers\\NutritionistSliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

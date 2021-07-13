@@ -1,0 +1,119 @@
+@extends('dashboard::layouts.master')
+
+@section('content')
+    <div class="page-content">
+        <!-- BEGIN PAGE HEADER-->
+        <!-- BEGIN THEME PANEL -->
+
+        <!-- END THEME PANEL -->
+        <!-- BEGIN PAGE BAR -->
+        <div class="page-bar">
+            <ul class="page-breadcrumb">
+                <li>
+                    <a href="{{route('dashboard.index')}}">{{__('dashboard.Home')}}</a>
+                    <i class="fa fa-circle"></i>
+                </li>
+                <li>
+                    <a href="{{route('club.sliders.index')}}">{{__('dashboard.department Sliders')}}</a>
+                </li>
+            </ul>
+
+        </div>
+        <!-- END PAGE BAR -->
+        <!-- BEGIN PAGE TITLE-->
+        <h1 class="page-title"> {{__('dashboard.department Sliders Datatable')}}
+        </h1>
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Begin: life time stats -->
+                <div class="portlet light portlet-fit portlet-datatable bordered">
+                    <div class="portlet-title">
+                        <div class="caption">
+                            <a href="{{ route('dept.slider.create') }}" class="btn btn-primary"><i class="fa fa-plus-square"></i></a>
+                        </div>
+
+                    </div>
+                    <div class="portlet-body">
+                        <div class="table-container">
+                            <table class="table table-striped table-bordered table-hover" id="sample_3">
+                                <thead>
+                                <tr>
+                                    <th> # </th>
+                                    <th> {{__('dashboard.department')}} </th>
+                                    <th> {{__('dashboard.slider')}} </th>
+                                    <th> {{__('dashboard.status')}}</th>
+                                    <th>{{__('dashboard.Created At')}}</th>
+                                    <th> {{__('dashboard.Actions')}} </th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                @foreach ($deptsSliders as $key=>$slider)
+                                    <tr>
+                                        <td> {{$key+1}} </td>
+                                        <td> {{$slider->department->name}} </td>
+                                        <td><img class="img-responsive img-thumbnail" src="{{ asset($slider->slider) }}" style="height: 100px; width: 100px" alt=""></td>
+                                        <td>
+                                            <div class="form-group">
+                                                <div class="col-md-9">
+                                                    <input type="checkbox" onchange="update_status(this)"
+                                                           <?php if($slider->status == 1) echo "checked";?>
+                                                           class="make-switch"
+                                                           value="{{ $slider->id }}"
+                                                           data-size="small">
+
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td>  {{$slider->created_at}} </td>
+
+                                        <td>
+                                            <a href="{{ route('dept.slider.edit',[$slider->id]) }}" class="btn btn-info btn-sm"><i class="fa fa-pencil"></i></a>
+                                            <form id="delete-form-{{ $slider->id }}" action="{{ route('dept.slider.destroy',$slider->id) }}" style="display: none;" method="POST">
+                                                @csrf
+                                            </form>
+                                            <button type="button" class="btn btn-danger btn-sm" onclick="if(confirm('{{__('dashboard.are you sure ? you want to delete this field ?')}}')){
+                                                event.preventDefault();
+                                                document.getElementById('delete-form-{{ $slider->id }}').submit();
+                                                }else {
+                                                event.preventDefault();
+                                                }"><i class="material-icons"><i class="fa fa-trash"></i></i></button>
+                                        </td>
+                                    </tr>
+                                @endforeach
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!-- End: life time stats -->
+            </div>
+        </div>
+
+    </div>
+
+
+
+@endsection
+@section('myjsfile')
+    <script>
+        function update_status(el){
+            if(el.checked){
+                var status = 1;
+            }
+            else{
+                var status = 0;
+            }
+            $.post('{{ route('dept.slider.status',isset($slider) ? $slider->id : "") }}', {_token:'{{ csrf_token() }}', id:el.value, status:status}, function(data){
+                if(data == 1){
+                    alert('{{__('dashboard.department slider status changed')}}');
+                }
+                else{
+                    alert('{{__('dashboard.something went wrong')}}');
+                }
+            });
+        }
+    </script>
+@endsection

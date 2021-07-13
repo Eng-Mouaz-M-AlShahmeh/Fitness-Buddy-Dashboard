@@ -1,0 +1,13 @@
+{
+    "name": "TrainerLanguage",
+    "alias": "trainerlanguage",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TrainerLanguage\\Providers\\TrainerLanguageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

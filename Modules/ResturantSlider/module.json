@@ -1,0 +1,13 @@
+{
+    "name": "ResturantSlider",
+    "alias": "resturantslider",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ResturantSlider\\Providers\\ResturantSliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

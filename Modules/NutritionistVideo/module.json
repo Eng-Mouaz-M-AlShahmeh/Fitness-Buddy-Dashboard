@@ -1,0 +1,13 @@
+{
+    "name": "NutritionistVideo",
+    "alias": "nutritionistvideo",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NutritionistVideo\\Providers\\NutritionistVideoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

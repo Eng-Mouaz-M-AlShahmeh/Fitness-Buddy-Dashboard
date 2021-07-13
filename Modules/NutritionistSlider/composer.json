@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/nutritionistslider",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\NutritionistSlider\\Providers\\NutritionistSliderServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NutritionistSlider\\": ""
+        }
+    }
+}

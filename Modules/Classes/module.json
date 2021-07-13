@@ -1,0 +1,13 @@
+{
+    "name": "Classes",
+    "alias": "classes",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Classes\\Providers\\ClassesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

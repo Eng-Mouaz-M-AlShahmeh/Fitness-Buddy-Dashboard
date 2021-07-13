@@ -1,0 +1,228 @@
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:40 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:07:41 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:09:06 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236
+[22-Jun-2020 09:09:10 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:236
+Stack trace:
+#0 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(407): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(384): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(295): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(192): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKer in /home/fitnessbuddy/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 236

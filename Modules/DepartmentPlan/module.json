@@ -1,0 +1,13 @@
+{
+    "name": "DepartmentPlan",
+    "alias": "departmentplan",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DepartmentPlan\\Providers\\DepartmentPlanServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

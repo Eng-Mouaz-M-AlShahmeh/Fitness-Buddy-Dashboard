@@ -1,0 +1,13 @@
+{
+    "name": "Modifier",
+    "alias": "modifier",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Modifier\\Providers\\ModifierServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

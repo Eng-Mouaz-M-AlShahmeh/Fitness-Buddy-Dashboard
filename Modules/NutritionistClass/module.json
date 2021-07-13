@@ -1,0 +1,13 @@
+{
+    "name": "NutritionistClass",
+    "alias": "nutritionistclass",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NutritionistClass\\Providers\\NutritionistClassServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

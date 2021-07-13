@@ -1,0 +1,13 @@
+{
+    "name": "ResturantCategory",
+    "alias": "resturantcategory",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ResturantCategory\\Providers\\ResturantCategoryServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

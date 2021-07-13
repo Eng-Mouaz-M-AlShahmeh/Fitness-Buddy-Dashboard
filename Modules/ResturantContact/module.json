@@ -1,0 +1,13 @@
+{
+    "name": "ResturantContact",
+    "alias": "resturantcontact",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ResturantContact\\Providers\\ResturantContactServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

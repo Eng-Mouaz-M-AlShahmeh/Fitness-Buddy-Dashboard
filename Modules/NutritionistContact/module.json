@@ -1,0 +1,13 @@
+{
+    "name": "NutritionistContact",
+    "alias": "nutritionistcontact",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NutritionistContact\\Providers\\NutritionistContactServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

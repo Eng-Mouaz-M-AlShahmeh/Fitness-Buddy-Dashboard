@@ -1,0 +1,13 @@
+{
+    "name": "City",
+    "alias": "city",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\City\\Providers\\CityServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

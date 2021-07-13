@@ -1,0 +1,13 @@
+{
+    "name": "MealIngredient",
+    "alias": "mealingredient",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MealIngredient\\Providers\\MealIngredientServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

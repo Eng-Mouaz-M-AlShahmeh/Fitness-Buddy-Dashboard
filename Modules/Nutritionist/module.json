@@ -1,0 +1,13 @@
+{
+    "name": "Nutritionist",
+    "alias": "nutritionist",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Nutritionist\\Providers\\NutritionistServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

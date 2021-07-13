@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/nutritionistlanguage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\NutritionistLanguage\\Providers\\NutritionistLanguageServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\NutritionistLanguage\\": ""
+        }
+    }
+}

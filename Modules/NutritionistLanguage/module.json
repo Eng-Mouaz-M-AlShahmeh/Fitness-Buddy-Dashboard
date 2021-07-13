@@ -1,0 +1,13 @@
+{
+    "name": "NutritionistLanguage",
+    "alias": "nutritionistlanguage",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NutritionistLanguage\\Providers\\NutritionistLanguageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

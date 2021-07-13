@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/resturantcategory",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ResturantCategory\\Providers\\ResturantCategoryServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ResturantCategory\\": ""
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "DepartmentSlider",
+    "alias": "departmentslider",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DepartmentSlider\\Providers\\DepartmentSliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

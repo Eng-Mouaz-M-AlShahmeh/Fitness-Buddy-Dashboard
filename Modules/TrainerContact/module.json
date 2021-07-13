@@ -1,0 +1,13 @@
+{
+    "name": "TrainerContact",
+    "alias": "trainercontact",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TrainerContact\\Providers\\TrainerContactServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,34 @@
+<?php
+
+namespace Modules\ResturantSlider\Http\Requests;
+
+use Illuminate\Foundation\Http\FormRequest;
+
+class ResturantSliderRequest extends FormRequest
+{
+    /**
+     * Get the validation rules that apply to the request.
+     *
+     * @return array
+     */
+    public function rules()
+    {
+        return [
+            'image'=>'required',
+            'ar.title'=>'required',
+            'en.title'=>'required',
+            'ar.description'=>'required',
+            'en.description'=>'required',
+        ];
+    }
+
+    /**
+     * Determine if the user is authorized to make this request.
+     *
+     * @return bool
+     */
+    public function authorize()
+    {
+        return true;
+    }
+}

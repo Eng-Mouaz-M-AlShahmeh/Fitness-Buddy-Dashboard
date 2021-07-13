@@ -1,0 +1,13 @@
+{
+    "name": "MealModifier",
+    "alias": "mealmodifier",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MealModifier\\Providers\\MealModifierServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

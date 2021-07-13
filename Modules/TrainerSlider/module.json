@@ -1,0 +1,13 @@
+{
+    "name": "TrainerSlider",
+    "alias": "trainerslider",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TrainerSlider\\Providers\\TrainerSliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

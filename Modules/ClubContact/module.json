@@ -1,0 +1,13 @@
+{
+    "name": "ClubContact",
+    "alias": "clubcontact",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ClubContact\\Providers\\ClubContactServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

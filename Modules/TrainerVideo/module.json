@@ -1,0 +1,13 @@
+{
+    "name": "TrainerVideo",
+    "alias": "trainervideo",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\TrainerVideo\\Providers\\TrainerVideoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

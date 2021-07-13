@@ -1,0 +1,13 @@
+{
+    "name": "ClubSubscription",
+    "alias": "clubsubscription",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ClubSubscription\\Providers\\ClubSubscriptionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

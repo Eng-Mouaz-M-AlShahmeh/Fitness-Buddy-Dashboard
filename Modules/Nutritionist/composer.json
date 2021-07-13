@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/nutritionist",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Nutritionist\\Providers\\NutritionistServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Nutritionist\\": ""
+        }
+    }
+}

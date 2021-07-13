@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/trainerclass",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\TrainerClass\\Providers\\TrainerClassServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\TrainerClass\\": ""
+        }
+    }
+}

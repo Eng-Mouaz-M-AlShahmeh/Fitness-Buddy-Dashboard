@@ -1,0 +1,13 @@
+{
+    "name": "MealDay",
+    "alias": "mealday",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MealDay\\Providers\\MealDayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ClubSlider",
+    "alias": "clubslider",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ClubSlider\\Providers\\ClubSliderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
