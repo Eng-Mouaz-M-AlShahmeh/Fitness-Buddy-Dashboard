@@ -215,7 +215,7 @@ var ComponentsDropdowns = function () {
                 if (id !== "") {
                     $.ajax("http://api.rottentomatoes.com/api/public/v1.0/movies/" + id + ".json", {
                         data: {
-                            apikey: "ju6z9mjyajq2djue3gbvv26t"
+                            apikey: "API_KEY"
                         },
                         dataType: "jsonp"
                     }).done(function (data) {
